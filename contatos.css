@@ -1,0 +1,26 @@
+.contatos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/img/fundo.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.title_contatos{
+    grid-area: title;
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 700;
+    color: #FFF1BD;
+    position: absolute;
+    top: 303%;
+}
+.logocont{
+    color: #FFF1BD;
+    position: absolute;
+    top: 305%;
+    left: 07%;
+    font-size: 1.5rem;
+}
