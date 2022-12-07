@@ -50,3 +50,16 @@ section{
     color: aliceblue;
     font-weight: 100;
 }
+  footer {
+      place-self: end center;
+      grid-area: content;
+      height: 50px;
+      width: 100%;
+      display: grid;
+      place-content: center;
+      font-size: .75rem;
+      border-top: 2px solid #ffff;
+      background-color: black;
+      color: white;
+  }
+  

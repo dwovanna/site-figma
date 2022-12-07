@@ -4,7 +4,7 @@
 .menu {
     display: flex;
     gap: 72px;
-    font: 1.25rem;
+    font-size: 1.3rem;
     color: aliceblue;
     position: absolute;
     top: 05%;
